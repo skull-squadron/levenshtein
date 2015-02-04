@@ -1,5 +1,7 @@
 # Levenshtein edit distance
 
+Because everybody that visits wikipedia feels obliged to push out trivial code.
+
 Both case-sensitive and case-insensitive functions.
 
 ```go
